@@ -26,7 +26,6 @@ Text Input → Preprocessing → Feature Extraction → LDA Reduction → Random
 - Python
 - FastText (Facebook AI)
 - scikit-learn
-- NLTK
 - LDA
 - Pandas, NumPy
 
