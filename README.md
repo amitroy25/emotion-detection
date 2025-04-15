@@ -9,7 +9,7 @@ A robust emotion classification pipeline combining the power of **FastText embed
 - 🌐 FastText-based word embeddings for rich text representation
 - 🧱 Character N-gram features for morphology
 - 🧠 Contextual feature extraction (e.g., all caps, emojis, length)
-- 🔄 Dimensionality reduction using Latent Dirichlet Allocation (LDA)
+- 🔄 Dimensionality reduction using Linear discriminant analysis (LDA)
 - 🌲 Random Forest classifier for final emotion prediction
 
 ---
