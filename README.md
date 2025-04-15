@@ -27,7 +27,7 @@ Text Input → Preprocessing → Feature Extraction → LDA Reduction → Random
 - FastText (Facebook AI)
 - scikit-learn
 - NLTK
-- Gensim (LDA)
+- LDA
 - Pandas, NumPy
 
 ---
@@ -56,7 +56,6 @@ Predicted Emotion: Sadness
 ## 📊 Results
 Accuracy: 64%
 
-F1 Score: YY
 
 ---
 
